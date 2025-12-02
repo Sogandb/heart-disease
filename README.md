@@ -2,13 +2,13 @@
 
 This project builds a simple binary classification model to predict heart disease using common health indicators.
 
-## ⚙️ Steps
+##Steps
 - Data loading
 - Train/test split
 - Logistic Regression model
 - Evaluation using accuracy + confusion matrix
 
-## 📚 Technologies
+##Technologies
 - Python
 - Pandas
 - Scikit-learn
